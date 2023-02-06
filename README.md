@@ -1,4 +1,4 @@
-# Minmal++ Compiler
+# Minimal++ Compiler
 
 ## About
 This project, written in Python, was developed for the purposes of the Compilers course at the [Department of Computer Science and Engineering, University of Ioannina](https://www.cse.uoi.gr/) 
